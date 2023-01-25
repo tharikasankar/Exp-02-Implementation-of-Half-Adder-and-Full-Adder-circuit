@@ -70,18 +70,16 @@ endmodule
 
 
 OUTPUT:
+
 Logic symbol & Truthtable:
 Half Adder:
 ![image](https://user-images.githubusercontent.com/119475507/214545272-7be6a8dd-bfd2-4afa-97e3-3af02a00d5fc.png)
-
 Full Adder:
 ![image](https://user-images.githubusercontent.com/119475507/214545394-904724bc-33c8-49c9-9c96-c8794d97abbe.png)
 
 RTL realization
-
 Half Adder:
 ![image](https://user-images.githubusercontent.com/119475507/214545545-7cf2daed-2b8a-49cc-a4fc-8edcb39ade67.png)
-
 Full Adder:
 ![image](https://user-images.githubusercontent.com/119475507/214545634-8af08faf-d341-444f-a5bd-f3563ad1ba09.png)
 
