@@ -77,6 +77,7 @@ Logic symbol & Truthtable:
 
 Half Adder:
 ![image](https://user-images.githubusercontent.com/119475507/214545272-7be6a8dd-bfd2-4afa-97e3-3af02a00d5fc.png)
+
 Full Adder:
 ![image](https://user-images.githubusercontent.com/119475507/214545394-904724bc-33c8-49c9-9c96-c8794d97abbe.png)
 
