@@ -42,7 +42,6 @@ Program to design a half adder and full adder circuit and verify its truth table
 
 HALF ADDER:
 
-
 module halfadd(a,b,sum,carry);
 
 input a,b;
@@ -56,7 +55,6 @@ and(carry,a,b);
 endmodule
 
 FULL ADDER:
-
 
 module fulladder(a,b,c,sum,carry);
 
